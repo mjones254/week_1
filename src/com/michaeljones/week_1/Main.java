@@ -12,8 +12,6 @@ public class Main {
         animals[2] = "chicken";
 
         System.out.println(animals[1]);
-
-        int sum = 2 * 3 + 4;
     }
 }
 
